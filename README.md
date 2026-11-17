@@ -51,9 +51,7 @@ Menu bar icon → **Run report**, or `python3 ~/TypingRhythm/report.py` in Termi
 - After that, the report compares your last 4 weeks with it. Numbers are in units of your
   normal day-to-day swing: under 1 is ordinary, and 2 or more for weeks on end is worth
   a look.
-- The measure research cares most about is **hold-time variability**: how much the time
-  a key is held down varies. In MIT's neuroQWERTY studies it separated early Parkinson's
-  from controls about as well as their full model did.
+- The measure research leans on most is **hold-time variability**: how much the time a key is held down varies. MIT's [neuroQWERTY study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5050498/) used hold times to pick out early Parkinson's, and [later researchers re-analyzing MIT's data](https://pmc.ncbi.nlm.nih.gov/articles/PMC6597101/) built a much simpler index from how much hold times vary.
 
 ## What moves the numbers besides health
 
